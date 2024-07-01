@@ -1,2 +1,2 @@
-# PizzaHut
+# Game Console
 Personal Project
